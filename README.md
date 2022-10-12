@@ -9,3 +9,5 @@
 4.This is a react router page so that you can run any page from dynamic interface.
 
 5.So Far I Tried to complete this project .
+
+6. In this project we can excute react and react router concepts.
