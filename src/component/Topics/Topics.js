@@ -92,7 +92,7 @@ const Topics = () => {
                     </div>
                     <h6 className="mb-3 text-xl font-bold leading-5">JavaScript Beauty</h6>
                     <p className="mb-3 text-sm text-white">
-                        JavaScript is the world's most popular programming language.It is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat.
+                        JavaScript is the world's most popular programming language.It is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. Afterall JavaScript is the mother language of web development.
                     </p>
                     <a
                         href="/"
